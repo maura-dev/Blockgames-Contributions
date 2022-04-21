@@ -42,7 +42,7 @@ https://github.com/maura-dev/Decentralized-Library/commit/d13600c53aa828a25e48ff
 https://github.com/maura-dev/Decentralized-Library/commit/97b4662f27a4d4fa99e3ebc86bde8fb6092c7e79
 https://github.com/maura-dev/Decentralized-Library/commit/6fa57232e939baa6b662058066d0395965756b5f
 
-3. Implemented upload with web3storage
+3. Testing out upload with web3storage
 https://github.com/maura-dev/Decentralized-Library/commit/22b1a6b6ac37c60b1d18679e28cf15f338a81c17
 
 4. Added sharing functionality, minor ui fixes and merge 
